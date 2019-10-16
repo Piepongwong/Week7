@@ -8,7 +8,7 @@ After today you'll:
 * make stateful components by using class based components
 * attach click handlers to components
 * setState after a click handler occured
-* know how a state change effects to components lifecycle
+* know how a state change effects the components lifecycle
 * apply state and event handlers to build a super quick search functionality
 
 <small>* That's a little white lie for now. Since the latest React update there's something called "Hooks", but lets stick to the basics first.</small>
