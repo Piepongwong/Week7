@@ -8,7 +8,3 @@ After today you'll:
 * Understand how lifting state up fits in Reacts data flow, in particular compared to state and props
 * Be able to finish iteration 4 of yesterday's lab
 * Be able to apply yesterday's concepts with today's in the <a href="https://github.com/ironhack-labs/lab-react-ironnutrition"> Ironnutrition lab exercise</a>
-* Know what routing is in React
-* Be able to set up a simple route with react-router
-
-Tomorrow: advanced routing and wiki countries
